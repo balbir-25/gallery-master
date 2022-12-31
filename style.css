@@ -175,4 +175,18 @@ margin-top: -20px;
         font-size: 14px;
         line-height: 17px;
     }
+
+    .main-stat{
+        flex-direction: column;
+    }
+    
+    .stat{
+        margin: 5px;
+        padding: 5px;
+    }
+
+    .stat h4, h6{
+        font-size: 12px;
+        line-height: 15px;
+    }
   }
